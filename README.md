@@ -1,4 +1,7 @@
 # hello-world
-creating the repository
+1.creating the repository
 
-Making changes in the readme file for 1st time
+2.Making changes in the readme file for 1st time
+
+
+3.Installed git bash and setup the email and clone it (hello world)
